@@ -29,14 +29,15 @@ Method :
 - **resetForm** : Untuk menghapus data yang diisikan pada form / mereset kembali form menjadi kosong
 
 ## Design GUI
-![image](https://user-images.githubusercontent.com/100754802/226502062-82c00044-622d-4dc0-8e1f-e702ddc72bf1.png)
+![image](https://user-images.githubusercontent.com/100754802/226507173-e8bd48df-17e6-4cee-bac6-710b7294f4cd.png)
+
 
 Pada Design GUI ini terdapat Text field untuk mengisi data NIM, Nama, dan Nilai Mahasiswa. Kemudian ada ComboBox atau Dropdown untuk memilih Fakultas.
 
 Terdapat beberapa button yaitu :
 - **Add** : Button ini untuk menambahkan data yang telah diisikan pada form
 - **Cancel** : Button ini untuk menghapus data yang telah diisikan pada form / reset form
-- **Update** : Button ini untuk mengupdate data pada kolom tabel yang dipilih, button ini muncul jika user memilih/mengklik kolom.
+- **Update** : Button ini merupakan button add yang namanya diganti menjadi update. Button ini untuk mengupdate data pada kolom tabel yang dipilih, button ini muncul jika user memilih/mengklik kolom.
 - **Delete** : Button ini untuk menghapus data pada kolom tabel yang dipilih, button ini muncul jika user memilih/mengklik kolom.
 
 ## Penjelasan Alur
