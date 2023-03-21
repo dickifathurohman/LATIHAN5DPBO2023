@@ -50,13 +50,13 @@ Jika user ingin menghapus data yang dipilih tersebut, maka user harus mengklik '
 ## Dokumentasi
 ![image](https://user-images.githubusercontent.com/100754802/226504066-1260303d-fe35-4bf1-9179-b1090e7cc364.png)
 
-**Add Data**
+### Add Data
 ![image](https://user-images.githubusercontent.com/100754802/226504385-de16aa00-612d-41e9-bb15-127b3b711110.png)
 
-**Update Data**
+### Update Data
 ![image](https://user-images.githubusercontent.com/100754802/226504484-ac82c9fc-1028-4103-ab52-1d3c6dd00f37.png)
 
-**Delete Data**
+### Delete Data
 ![image](https://user-images.githubusercontent.com/100754802/226506898-aaa723d4-ea59-4a0c-bf58-ba07970d8d72.png)
 
 ![image](https://user-images.githubusercontent.com/100754802/226506929-b94d59d5-ff4f-4796-a8c3-7df951a2d704.png)
